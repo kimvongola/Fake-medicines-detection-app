@@ -1,0 +1,20 @@
+# Counterfeit-Mdeicine-Detection
+## Overview
+This personal project aim to identify counterfeit and authentic medicines using computer vision and deep learning. It helps prevent the consumption of counterfeit medicines of households and provides awareness of the characteristic of counterfeit medicines
+## Features
+1. Detects counterfeit and authentic medicines through low,moderate,high quality images
+2. Trained on dataset of real cointerfeit and authentic medicines
+3. Simple User-Friendly Interface for users to scan for counterfeit medicines through cameras
+## Technologies used
+1. Programming language: Python
+2. Frameworks: Tensorflow/Pytorch
+3. Dataset: Custom labeled images of read counterfeit and authentic medicines
+4. Deployment: Android Studio
+## Installtion
+Clone the repository
+## Usage
+1. Open the application and point your mobile phone camera toward authentic or counterfeits medicine
+2. The result is whether the medicines are counterfeit or authentic
+## Dataset
+All images are from verified source from public health organization and other open dataset
+## Result
