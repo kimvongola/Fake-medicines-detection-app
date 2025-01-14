@@ -16,5 +16,6 @@ Clone the repository
 1. Open the application and point your mobile phone camera toward authentic or counterfeits medicine
 2. The result is whether the medicines are counterfeit or authentic
 ## Dataset
-All images are from verified source from public health organization and other open dataset
+All images are from verified source from public health organization and other open dataset.
+[Dataset](https://app.roboflow.com/pill-detection-sl7xn/fake-med/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 ## Result
