@@ -12,7 +12,7 @@ This personal project aim to identify counterfeit and authentic medicines using 
 4. Deployment: Android Studio
 ## Installtion
   1. Clone the repository
-  ``` https://github.com/kimvongola/Fake-medicines-detection-app.git `
+  ``` https://github.com/kimvongola/Fake-medicines-detection-app.git ```
   2. Download Android Studio
   3. Open Folder
   4. Connect your phone to Android Studio via wireless debugging(The phone's developer option must be turn on)
@@ -24,4 +24,4 @@ This personal project aim to identify counterfeit and authentic medicines using 
 All images are from verified source from public health organization and other open dataset.
 [Dataset](https://app.roboflow.com/pill-detection-sl7xn/fake-med/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 ## Result
-[Fake Medicines Detection Results](Result/)
+[Fake Medicines Detection Results](Result/IMG_2636.png)
